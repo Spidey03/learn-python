@@ -1,3 +1,6 @@
 [submodule "problem-solving"]
 	path = problem-solving
 	url = https://github.com/Spidey03/problem-solving
+[submodule "python-examples"]
+	path = python-examples
+	url = https://github.com/Spidey03/python-examples
